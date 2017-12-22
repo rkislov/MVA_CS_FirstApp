@@ -8,6 +8,10 @@ namespace MyFirstApplication
 {
     class Program
     {
+        //my comments
+        /*
+         * My comments block 
+         */
         static void Main(string[] args)
         {
             
